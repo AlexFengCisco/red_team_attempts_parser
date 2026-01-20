@@ -1,6 +1,6 @@
 # Red Team Attempts Parser
 
-This Python script parses the `red_team_attempts.jsonl` file and displays conversations in an easy-to-read format with clear separation between human and assistant messages.
+This Python script parses the Anthropic `red_team_attempts.jsonl` file and displays conversations in an easy-to-read format with clear separation between human and assistant messages.
 
 ## Features
 
